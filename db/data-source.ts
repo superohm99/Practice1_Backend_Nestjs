@@ -5,7 +5,7 @@ export const dataSourceOptions:DataSourceOptions={
     host:'localhost',
     port:5432,
     username:'postgres',
-    password:'0801677792Zas#',
+    password:'555',
     database:'bazarapi',
     entities:['dist/**/*.entity{.ts,.js}'],
     migrations:['dist/db/migrations/*{.ts,js}'],
